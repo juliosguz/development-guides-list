@@ -14,10 +14,11 @@
 1. [Angular styleguide by John Papa](https://github.com/johnpapa/angular-styleguide "Angular styleguide by John Papa")
 1. [Gulp patterns by John Papa](https://github.com/johnpapa/gulp-patterns "Gulp patterns by John Papa")
 1. [Node.js Style Guide](https://github.com/felixge/node-style-guide "Node.js Style Guide")
+1. [Minimal NodeJs/ExpressJs Style Guide and Project Structure](http://anixir.com/minimal-node-express-style-guide/ "Minimal NodeJs/ExpressJs Style Guide and Project Structure")
+1. [RisingStack Node.js Style Guide](https://github.com/RisingStack/node-style-guide "RisingStack Node.js Style Guide")
+1. [JavaScript Standard Style](http://standardjs.com/ "JavaScript Standard Style") 
 
-
-
-## List of list of list ...
+## List of lists of lists ...
 
 1. [Awesome JSON Datasets](https://github.com/jdorfman/awesome-json-datasets "Awesome JSON Datasets")
 1. [Curated list of awesome lists](https://github.com/sindresorhus/awesome "Curated list of awesome lists")
