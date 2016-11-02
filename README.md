@@ -7,6 +7,7 @@
 1. [Python Patterns](https://github.com/faif/python-patterns "Python Patterns")
 
 ## Javascript
+1. [Overview of ECMAScript 6 features](https://github.com/lukehoban/es6features "Overview of ECMAScript 6 features")
 1. [Code Conventions for the JavaScript Programming Language](http://javascript.crockford.com/code.html "Code Conventions for the JavaScript Programming Language")
 1. [Idiomatic Javascript](https://github.com/rwaldron/idiomatic.js "Idiomatic Javascript")
 1. [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript "Airbnb JavaScript Style Guide")
