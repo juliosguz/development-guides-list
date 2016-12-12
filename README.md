@@ -22,7 +22,8 @@
 1. [JavaScript Standard Style](http://standardjs.com/ "JavaScript Standard Style")
 
 ## Nice to have
-1. [A collection of useful .gitignore templates] (https://github.com/github/gitignore)
+1. [A collection of useful .gitignore templates](https://github.com/github/gitignore)
+1. [Scrum Guide](http://www.scrumguides.org/)
 
 ## List of lists of lists ...
 
