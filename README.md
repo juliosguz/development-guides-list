@@ -21,6 +21,9 @@
 1. [RisingStack Node.js Style Guide](https://github.com/RisingStack/node-style-guide "RisingStack Node.js Style Guide")
 1. [JavaScript Standard Style](http://standardjs.com/ "JavaScript Standard Style")
 
+## Nice to have
+1. [A collection of useful .gitignore templates] (https://github.com/github/gitignore)
+
 ## List of lists of lists ...
 
 1. [Awesome JSON Datasets](https://github.com/jdorfman/awesome-json-datasets "Awesome JSON Datasets")
