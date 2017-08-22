@@ -10,7 +10,7 @@
 1. [Overview of ECMAScript 6 features](https://github.com/lukehoban/es6features "Overview of ECMAScript 6 features")
 1. [Learning Javascript Design Patterns by Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/ "Learning Javascript Design Patterns by Addy Osmani")
 
-### Typescript
+## Typescript
 1. [Microsoft/Typescript Wiki](https://github.com/Microsoft/TypeScript/wiki)
 
 ## NodeJS
@@ -23,7 +23,7 @@
 1. [AngularJS styleguide by Todd Motto](https://github.com/toddmotto/angular-styleguide "Angular styleguide by Todd Motto")
 1. [AngularJS styleguide by John Papa](https://github.com/johnpapa/angular-styleguide "Angular styleguide by John Papa")
 
-### SQL
+## SQL
 1. [SQL Style Guide](http://www.sqlstyle.guide/)
 
 ## Nice to have
