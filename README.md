@@ -26,9 +26,10 @@
 ## SQL
 1. [SQL Style Guide](http://www.sqlstyle.guide/)
 
-## REST API
+## API
 1. [REST+JSON API Design - Best Practices for Developers](https://www.youtube.com/watch?v=hdSrT4yjS1g)
 1. [REST APIs must be hypertext-driven](http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven)
+1. [GraphQL](http://graphql.org/)
 
 ## Nice to have
 1. [A collection of useful .gitignore templates](https://github.com/github/gitignore)
