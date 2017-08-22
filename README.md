@@ -8,8 +8,10 @@
 ## Javascript
 1. [JavaScript Standard Style](http://standardjs.com/ "JavaScript Standard Style")
 1. [Overview of ECMAScript 6 features](https://github.com/lukehoban/es6features "Overview of ECMAScript 6 features")
-1. [Code Conventions for the JavaScript Programming Language](http://javascript.crockford.com/code.html "Code Conventions for the JavaScript Programming Language")
 1. [Learning Javascript Design Patterns by Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/ "Learning Javascript Design Patterns by Addy Osmani")
+
+### Typescript
+1. [Microsoft/Typescript Wiki](https://github.com/Microsoft/TypeScript/wiki)
 
 ## NodeJS
 1. [Node.js Style Guide](https://github.com/felixge/node-style-guide "Node.js Style Guide")
@@ -20,6 +22,9 @@
 1. [Angular.io](https://angular.io/guide/styleguide)
 1. [AngularJS styleguide by Todd Motto](https://github.com/toddmotto/angular-styleguide "Angular styleguide by Todd Motto")
 1. [AngularJS styleguide by John Papa](https://github.com/johnpapa/angular-styleguide "Angular styleguide by John Papa")
+
+### SQL
+1. [SQL Style Guide](http://www.sqlstyle.guide/)
 
 ## Nice to have
 1. [A collection of useful .gitignore templates](https://github.com/github/gitignore)
