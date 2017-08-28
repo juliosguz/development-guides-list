@@ -39,6 +39,8 @@
 ## Nice to have
 1. [A collection of useful .gitignore templates](https://github.com/github/gitignore)
 1. [Scrum Guide](http://www.scrumguides.org/)
+1. [Zsh Pure](https://github.com/rafaelrinaldi/pure)
+1. [Terminal Theme](https://github.com/benmarten/Monokai_Fish_OSX)
 
 ## List of lists of lists ...
 
