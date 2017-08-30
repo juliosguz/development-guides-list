@@ -37,6 +37,7 @@
 1. [GraphQL](http://graphql.org/)
 
 ## GitFlow
+1. [¿Qué es Git Flow?](http://aprendegit.com/que-es-git-flow/)
 1. [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model)
 1. [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
 
