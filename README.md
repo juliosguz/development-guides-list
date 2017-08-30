@@ -36,6 +36,10 @@
 1. [REST APIs must be hypertext-driven](http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven)
 1. [GraphQL](http://graphql.org/)
 
+## GitFlow
+1. [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model
+1. [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
+
 ## Nice to have
 1. [A collection of useful .gitignore templates](https://github.com/github/gitignore)
 1. [Scrum Guide](http://www.scrumguides.org/)
